@@ -39,7 +39,7 @@
 }
 
 body {
-  @apply bg-darkBrown;
+  @apply bg-gray-600;
 }
 :root {
   font-family: Roboto, josefin Sans;

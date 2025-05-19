@@ -1,6 +1,6 @@
 import React from "react";
 import { TbFileDownload } from "react-icons/tb";
-import CV from "../../assets/files/cv.pdf";
+import CV from "../../assets/files/Dhananjaya_Rupasinghe_Software_Engineering.pdf";
 
 const NavbarBtn = () => {
   return (
